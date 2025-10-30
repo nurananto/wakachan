@@ -26,20 +26,17 @@ const CHAPTER_VIEW_THRESHOLD = 10;
 // ============================================
 
 function getWIBTimestamp() {
-    const now = new Date();
-    // Convert to WIB (UTC+7)
-    const wibTime = new Date(now.getTime() + (7 * 60 * 60 * 1000));
-    // Return with +07:00 timezone indicator
-    return wibTime.toISOString().replace('Z', '+07:00');
+    // Use toLocaleString with Asia/Jakarta timezone
+    const date = new Date();
+    const wibStr = date.toLocaleString('sv-SE', { timeZone: 'Asia/Jakarta' }).replace(' ', 'T');
+    return wibStr + '+07:00';
 }
 
 function convertToWIB(isoString) {
     if (!isoString) return null;
     const date = new Date(isoString);
-    // Convert to WIB (UTC+7)
-    const wibTime = new Date(date.getTime() + (7 * 60 * 60 * 1000));
-    // Return with +07:00 timezone indicator instead of Z
-    return wibTime.toISOString().replace('Z', '+07:00');
+    const wibStr = date.toLocaleString('sv-SE', { timeZone: 'Asia/Jakarta' }).replace(' ', 'T');
+    return wibStr + '+07:00';
 }
 
 // ============================================
