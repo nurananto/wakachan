@@ -29,7 +29,8 @@ function getWIBTimestamp() {
     const now = new Date();
     // Convert to WIB (UTC+7)
     const wibTime = new Date(now.getTime() + (7 * 60 * 60 * 1000));
-    return wibTime.toISOString();
+    // Return with +07:00 timezone indicator
+    return wibTime.toISOString().replace('Z', '+07:00');
 }
 
 function convertToWIB(isoString) {
@@ -37,7 +38,8 @@ function convertToWIB(isoString) {
     const date = new Date(isoString);
     // Convert to WIB (UTC+7)
     const wibTime = new Date(date.getTime() + (7 * 60 * 60 * 1000));
-    return wibTime.toISOString();
+    // Return with +07:00 timezone indicator instead of Z
+    return wibTime.toISOString().replace('Z', '+07:00');
 }
 
 // ============================================
