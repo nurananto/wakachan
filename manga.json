@@ -30,13 +30,23 @@
       "title": "Chapter 25",
       "chapter": 25,
       "folder": "25",
-      "uploadDate": "2025-10-30T20:34:44.000+07:00",
+      "uploadDate": "2025-10-30T20:34:44+07:00",
+      "totalPages": 32,
+      "pages": 32,
+      "locked": false,
+      "views": 0
+    },
+    "26": {
+      "title": "Chapter 26",
+      "chapter": 26,
+      "folder": "26",
+      "uploadDate": "2025-10-30T21:24:30+07:00",
       "totalPages": 32,
       "pages": 32,
       "locked": false,
       "views": 0
     }
   },
-  "lastUpdated": "2025-10-30T21:22:14.218+07:00",
+  "lastUpdated": "2025-10-30T21:24:50+07:00",
   "lastChapterUpdate": "2025-10-30"
 }
