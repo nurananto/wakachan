@@ -25,7 +25,18 @@
     "imageFormat": "jpg",
     "lockedChapters": []
   },
-  "chapters": {},
-  "lastUpdated": "2025-10-30T20:32:40.773Z",
+  "chapters": {
+    "25": {
+      "title": "Chapter 25",
+      "chapter": 25,
+      "folder": "25",
+      "uploadDate": "2025-10-30T20:34:44.000Z",
+      "totalPages": 32,
+      "pages": 32,
+      "locked": false,
+      "views": 0
+    }
+  },
+  "lastUpdated": "2025-10-30T20:35:10.301Z",
   "lastChapterUpdate": "2025-10-30"
 }
