@@ -2,7 +2,7 @@
   "manga": {
     "title": "Waka-chan wa Kyou mo Azatoi",
     "alternativeTitle": "和歌ちゃんは今日もあざとい",
-    "cover": "Kosong",
+    "cover": "",
     "description": "—Tomoya, mahasiswa tahun pertama yang masih perjaka dan bertekad punya pacar, mulai akrab dengan gadis cantik berhati lembut dari klub yang sama, Sakuraba Waka. Namun, ia tak punya cukup keberanian untuk mengambil langkah pertama. Hingga suatu hari, Tomoya tanpa sengaja menyaksikan “sisi lain” dari Waka…?",
     "author": "Shimamura",
     "artist": "Shimamura",
@@ -30,13 +30,13 @@
       "title": "Chapter 25",
       "chapter": 25,
       "folder": "25",
-      "uploadDate": "2025-10-30T20:34:44.000Z",
+      "uploadDate": "2025-10-30T20:34:44.000+07:00",
       "totalPages": 32,
       "pages": 32,
       "locked": false,
       "views": 0
     }
   },
-  "lastUpdated": "2025-10-30T20:35:10.301Z",
+  "lastUpdated": "2025-10-30T20:45:07.090+07:00",
   "lastChapterUpdate": "2025-10-30"
 }
