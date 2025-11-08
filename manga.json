@@ -15,7 +15,7 @@
       "Slice of Life"
     ],
     "status": "END",
-    "views": 291,
+    "views": 320,
     "links": {
       "mangadex": "https://mangadex.org/title/57fe3f00-8626-462b-8f75-fce0e6faa6be/a-hidden-side-to-my-crush",
       "raw": "https://www.comico.jp/comic/908"
@@ -34,7 +34,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 38
+      "views": 44
     },
     "26": {
       "title": "Chapter 26",
@@ -44,7 +44,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 0
+      "views": 8
     },
     "27": {
       "title": "Chapter 27",
@@ -54,7 +54,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 0
+      "views": 3
     },
     "28": {
       "title": "Chapter 28",
@@ -64,7 +64,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 0
+      "views": 5
     },
     "29": {
       "title": "Chapter 29",
@@ -74,7 +74,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 0
+      "views": 7
     },
     "30": {
       "title": "Chapter 30",
@@ -84,7 +84,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 10
+      "views": 18
     },
     "31": {
       "title": "Chapter 31",
@@ -94,7 +94,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 0
+      "views": 2
     },
     "32": {
       "title": "Chapter 32",
@@ -124,7 +124,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 0
+      "views": 1
     },
     "35": {
       "title": "Chapter 35",
@@ -134,7 +134,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 0
+      "views": 1
     },
     "36": {
       "title": "Chapter 36",
@@ -144,7 +144,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 0
+      "views": 3
     },
     "37": {
       "title": "Chapter 37",
@@ -154,7 +154,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 0
+      "views": 3
     },
     "38": {
       "title": "Chapter 38",
@@ -164,7 +164,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 0
+      "views": 3
     },
     "39": {
       "title": "Chapter 39",
@@ -174,7 +174,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 0
+      "views": 8
     },
     "40": {
       "title": "Chapter 40",
@@ -184,7 +184,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 43
+      "views": 44
     },
     "41": {
       "title": "Chapter 41",
@@ -284,9 +284,9 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 10
+      "views": 13
     }
   },
-  "lastUpdated": "2025-11-07T09:14:43+07:00",
+  "lastUpdated": "2025-11-08T09:02:59+07:00",
   "lastChapterUpdate": "2025-11-04T18:28:35+07:00"
 }
