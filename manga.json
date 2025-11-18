@@ -2,7 +2,7 @@
   "manga": {
     "title": "Waka-chan wa Kyou mo Azatoi",
     "alternativeTitle": "和歌ちゃんは今日もあざとい",
-    "cover": "https://raw.githubusercontent.com/nurananto/NuranantoScanlation/refs/heads/main/covers/wakachan-c15f762d-5437-4f73-aa85-64a7b686ddba.jpg",
+    "cover": "https://raw.githubusercontent.com/nurananto/NuranantoScanlation/refs/heads/main/covers/wakachan-c15f762d-5437-4f73-aa85-64a7b686ddba.webp",
     "description": "—Tomoya, mahasiswa tahun pertama yang masih perjaka dan bertekad punya pacar, mulai akrab dengan gadis cantik berhati lembut dari klub yang sama, Sakuraba Waka. Namun, ia tak punya cukup keberanian untuk mengambil langkah pertama. Hingga suatu hari, Tomoya tanpa sengaja menyaksikan “sisi lain” dari Waka…?",
     "author": "Shimamura",
     "artist": "Shimamura",
@@ -15,7 +15,7 @@
       "Slice of Life"
     ],
     "status": "END",
-    "views": 363,
+    "views": 367,
     "links": {
       "mangadex": "https://mangadex.org/title/57fe3f00-8626-462b-8f75-fce0e6faa6be/a-hidden-side-to-my-crush",
       "raw": "https://www.comico.jp/comic/908"
@@ -284,9 +284,9 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 25
+      "views": 27
     }
   },
-  "lastUpdated": "2025-11-18T19:36:14+07:00",
+  "lastUpdated": "2025-11-19T00:40:42+07:00",
   "lastChapterUpdate": "2025-11-04T18:28:35+07:00"
 }
