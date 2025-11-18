@@ -22,7 +22,7 @@
     },
     "repoUrl": "https://raw.githubusercontent.com/nurananto/wakachan/main/",
     "imagePrefix": "Image",
-    "imageFormat": "jpg",
+    "imageFormat": "webp",
     "lockedChapters": []
   },
   "chapters": {
@@ -287,6 +287,6 @@
       "views": 25
     }
   },
-  "lastUpdated": "2025-11-18T19:35:29+07:00",
+  "lastUpdated": "2025-11-18T19:36:14+07:00",
   "lastChapterUpdate": "2025-11-04T18:28:35+07:00"
 }
